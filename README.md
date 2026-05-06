@@ -8,4 +8,4 @@ It handles tasks such as:
  - I/O
  - ...
 
-Full specification is given within **[Project_Requirements.pdf](./Projektni_zadatak_2024._v1.0.pdf)**
+Full specification is given within **[Project_Requirements.pdf](./Projektni_zadatak_2024_v1.0.pdf)**
